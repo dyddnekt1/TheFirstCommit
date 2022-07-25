@@ -1,2 +1,2 @@
-email :
-gitID :
+email : email@naver.com
+gitID : yongwoo
